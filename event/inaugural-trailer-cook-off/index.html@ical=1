@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Manship - ECPv4.2.5//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Manship
+X-ORIGINAL-URL:http://themanshipjackson.com
+X-WR-CALDESC:Events for The Manship
+BEGIN:VEVENT
+DTSTART;TZID=UTC-6:20160917T100000
+DTEND;TZID=UTC-6:20160917T170000
+DTSTAMP:20161116T192731
+CREATED:20160901T195243
+LAST-MODIFIED:20160901T195243
+UID:529-1474106400-1474131600@themanshipjackson.com
+SUMMARY:Inaugural Trailer Cook Off
+DESCRIPTION:We are going to be testing our new mobile kitchen and having some fun in Belhaven Park. Come on by and help test the "wares." $10 gives you a plate lunch.
+URL:http://themanshipjackson.com/event/inaugural-trailer-cook-off/
+LOCATION:1000 Poplar Ave.\, Jackson\, MS\, 39202
+CATEGORIES:Mobile Kitchen
+END:VEVENT
+END:VCALENDAR

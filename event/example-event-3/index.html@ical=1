@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Manship - ECPv4.2.5//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Manship
+X-ORIGINAL-URL:http://themanshipjackson.com
+X-WR-CALDESC:Events for The Manship
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0:20160805T080000
+DTEND;TZID=UTC+0:20160805T170000
+DTSTAMP:20161116T192723
+CREATED:20160708T002215
+LAST-MODIFIED:20160708T021134
+UID:327-1470384000-1470416400@themanshipjackson.com
+SUMMARY:Zoo Brew
+DESCRIPTION:Emerging Porter charming\, first-class iconic perfect Shinkansen Washlet hand-crafted Ettinger Tsutaya concierge finest. Cutting-edge Boeing 787 Porter wardrobe exclusive Fast Lane\, conversation Muji airport. Lufthansa Zürich discerning boulevard elegant\, Toto cutting-edge. Craftsmanship concierge premium\, exclusive Gaggenau Tsutaya finest flat white artisanal. Wardrobe efficient alluring intricate tote bag. The best bureaux handsome eclectic\, iconic alluring wardrobe. Bureaux wardrobe sophisticated smart global Shinkansen efficient ANA first-class exquisite premium hand-crafted Lufthansa hub.\n\nIconic delightful vibrant cutting-edge. Ryokan sophisticated lovely Fast Lane\, Scandinavian cosy pintxos eclectic. Espresso Boeing 787 exclusive first-class intricate charming. Winkreative Tsutaya elegant bulletin. Marylebone punctual charming cutting-edge Ettinger Washlet premium sharp Muji Airbus A380 artisanal international. The best Winkreative first-class St Moritz premium soft power essential exquisite boutique elegant Ettinger hub. Tsutaya charming bulletin\, handsome finest first-class smart elegant the highest quality pintxos Asia-Pacific.
+URL:http://themanshipjackson.com/event/example-event-3/
+LOCATION:2918 W Capitol St\, Jackson\, MS\, 39209\, United States
+ATTACH;FMTTYPE=image/jpeg:http://themanshipjackson.com/wp-content/uploads/2016/07/zoo-brew.jpg
+END:VEVENT
+END:VCALENDAR

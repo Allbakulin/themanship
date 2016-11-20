@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Manship - ECPv4.2.5//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Manship
+X-ORIGINAL-URL:http://themanshipjackson.com
+X-WR-CALDESC:Events for The Manship
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0:20160825T190000
+DTEND;TZID=UTC+0:20160825T220000
+DTSTAMP:20161116T192726
+CREATED:20160812T215312
+LAST-MODIFIED:20160812T215312
+UID:494-1472151600-1472162400@themanshipjackson.com
+SUMMARY:Winemaker's Dinner
+DESCRIPTION:Winemaker Roger Roessler is coming to Jackson and bringing his wonderful wines with him. We will dazzle your taste buds with 5 amazing courses paired with his carefully-crafted wines.\n\nBuy your tickets at Eventbrite here.
+URL:http://themanshipjackson.com/event/winemakers-dinner/
+LOCATION:1200 N State St #100\, Jackson\, MS\, 39201\, United States
+ATTACH;FMTTYPE=image/jpeg:http://themanshipjackson.com/wp-content/uploads/2016/08/Winemakers-dinner.jpg
+END:VEVENT
+END:VCALENDAR
